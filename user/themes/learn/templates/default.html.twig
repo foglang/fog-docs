@@ -1,0 +1,9 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+    <div id="body-inner">
+        <p>
+            {{ page.content }}
+        </p>
+    </div>
+    <script>window.setTimeout(function(){ jQuery(".icon-list").click() }, 150);</script>
+{% endblock %}

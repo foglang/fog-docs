@@ -2,6 +2,7 @@ title: FOG
 author:
   name: Falkirks
   email: 'me@falkirks.com'
-metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
 
+taxonomies: [category,tag]
+summary:
+  size: 300
