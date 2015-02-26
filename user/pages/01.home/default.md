@@ -2,12 +2,11 @@
 title: Home
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+# FOG
+## **F**ormatting **O**riented **G**arbage
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
-
->>>>> If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+Congratulations! You have successfully found the **stupidest** programming language. 
+>>>> FOG is a work in progress and a release has yet to be made. Language constructs are in no way final and all aspects of the language should be considered **volatile**.
 
 ### Find out all about Grav
 
