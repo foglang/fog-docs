@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter 4
 
-# Plugins
+# Functions
 
-**Grav** is fully extensible with a powerful **Plugin** architecture to allow you to extend the core functionality and add as much functionality as you like.
+

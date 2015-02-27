@@ -8,4 +8,7 @@ taxonomy:
 
 # Variables
 
-**FOG** allows the definition of both immutable and mutable variables. 
+**FOG** allows the definition and subsequent modification of variables. Variables are recognized by the application of bold styling to variable names. 
+
+To print out the contents of a variable called `foo`, the following can be used.
+>>>>> <u><b>foo</b></u>
