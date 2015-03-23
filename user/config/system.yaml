@@ -9,7 +9,7 @@ pages:
     twig: false
 
 cache:
-  enabled: true
+  enabled: false
   check:
     method: folder
   driver: auto
@@ -30,6 +30,9 @@ assets:
 
 debugger:
   enabled: false
-  twig: true
+  twig: false
   shutdown:
     close_connection: true
+errors:
+  display: false
+  log: true
